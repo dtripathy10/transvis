@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Loaders">
+        <folder name="text">
+            <folder name="x-mycsv">
+                <folder name="Actions"/>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Editors">
+        <folder name="text">
+            <folder name="x-mycsv">
+                <attr name="SystemFileSystem.localizingBundle" stringvalue="edu.iitb.tse.transvis.csvfile.Bundle"/>
+                <folder name="FontsColors">
+                    <folder name="NetBeans">
+                        <folder name="Defaults">
+                            <file name="FontAndColors.xml">
+                                <attr name="displayName" bundlevalue="org.simplejava.Bundle#Editors/text/x-mycsv/FontsColors/NetBeans/Defaults/FontAndColors.xml"/>
+                            </file>
+                        </folder>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+    </folder>
+
+    <file name="Navigator_hidden"/>
+    <folder name="OptionsDialog">
+        <folder name="PreviewExamples">
+            <folder name="text">
+                <file name="x-mycsv" url="CSVTemplate.csv"/>
+            </folder>
+        </folder>
+    </folder>
+
+</filesystem>

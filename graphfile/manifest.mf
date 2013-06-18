@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: edu.iitb.tse.transvis.graphfile
+OpenIDE-Module-Localizing-Bundle: edu/iitb/tse/transvis/graphfile/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: edu.iitb.civil
+OpenIDE-Module-Localizing-Bundle: edu/iitb/civil/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

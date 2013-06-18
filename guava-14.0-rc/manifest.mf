@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: edu.google
+OpenIDE-Module-Localizing-Bundle: edu/google/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

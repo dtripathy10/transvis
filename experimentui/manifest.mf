@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+OpenIDE-Module: edu.iit.tse.transvis.experimentui
+OpenIDE-Module-Install: edu/iit/tse/transvis/experimentui/Installer.class
+OpenIDE-Module-Layer: edu/iit/tse/transvis/experimentui/layer.xml
+OpenIDE-Module-Localizing-Bundle: edu/iit/tse/transvis/experimentui/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

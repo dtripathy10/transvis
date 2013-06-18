@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: edu.iitb.tse.transvis.csvfile
+OpenIDE-Module-Layer: edu/iitb/tse/transvis/csvfile/layer.xml
+OpenIDE-Module-Localizing-Bundle: edu/iitb/tse/transvis/csvfile/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: edu.iitb.openmaplib
+OpenIDE-Module-Localizing-Bundle: edu/iitb/openmaplib/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
